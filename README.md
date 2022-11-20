@@ -6,8 +6,4 @@ Follow links on navbar including: About Me, Contact, and Services.
 
 Technologies Used : Html, Css, Bootstrap, and a bit of Javascript.
 
-Ideas for future improvement : 
-
--Could use more Javascript for further improvement
--Could use better padding
-
+To see the website go to: https://sbardalez1.github.io/Project-01-Basic-Business-or-Personal-Website/
